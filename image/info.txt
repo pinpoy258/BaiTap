@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: sen-regular
+font link: http://www.philatype.com/#sen
+font author: Philatype
+font author site: http://www.philatype.com/
+
+
+icon designer: Ngan Le
+icon designer link: /ngan39
+        
+{"bg":"#EDE9E4","icon":"#14A9A9","font":"#14A9A9","slogan":"#28bdbd"}
+      
